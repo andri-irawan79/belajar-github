@@ -1,4 +1,4 @@
-const profil = {
+const myProfil = {
   nama: "Andri irawan",
   stambuk: "F55119061",
   "jenis kelamin": "Laki-laki",
