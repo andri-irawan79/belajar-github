@@ -1,0 +1,7 @@
+const profil = {
+  nama: "Andri irawan",
+  stambuk: "F55119061",
+  "jenis kelamin": "Laki-laki",
+  agama: "Islam",
+  alamat: "Desa Ogodoi",
+};
