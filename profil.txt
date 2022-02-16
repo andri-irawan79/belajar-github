@@ -5,3 +5,5 @@ const myProfil = {
   agama: "Islam",
   alamat: "Desa Ogodoi",
 };
+
+const myArray = ["nama", "Kelas", ["andri", "b"]];
