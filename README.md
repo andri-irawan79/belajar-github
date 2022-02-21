@@ -1,2 +1,2 @@
-# belajar-github
-repo untuk belajar menggunakan github
+# Belajar git & github dasar
+Repo untuk belajar menggunakan git dan github
